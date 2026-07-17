@@ -1,0 +1,6 @@
+{
+  "reviewContainer": "[data-hook=\"review\"], .review, div[id*=\"customer_review\"]",
+  "ratingSelector": "[data-hook=\"review-star-rating\"], .review-rating, i[class*=\"a-star-\"]",
+  "verifiedSelector": "[data-hook=\"avp-badge\"], :contains(\"Verified Purchase\")",
+  "reviewTextSelector": "[data-hook=\"review-body\"], .review-text-content, .review-body"
+}
