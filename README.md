@@ -3,6 +3,12 @@
 Scanline is a lightweight, local-first Chrome and Chromium extension that performs mathematical and heuristic analysis on Amazon product reviews to detect potential manipulation, bot-generated feedback, and suspicious rating skews.
 Note:- Login required on Amazon to work fully.
 
+### Extension Preview
+![Main Popup View](Screenshot/Screenshot-1.png)
+![Analysis Example](Screenshot/Screenshot-2.png)
+![Analysis Example](Screenshot/Screenshot-3.png)
+![Analysis Example](Screenshot/Screenshot-4.png)
+
 ## Features
 - **Zero API Fees:** Runs 100% locally in your browser using a custom jQuery parser.
 - **Rating Spread Analysis:** Checks for artificial 5-star skews.
